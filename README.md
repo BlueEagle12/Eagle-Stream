@@ -1,14 +1,10 @@
-# MTA Stream
+# Eagle Stream
 
-(Credit to BluePie 'Aka Blue' for the insites reguarding Async)
+### Usage
 
-[![Discord](https://i.imgur.com/MyNY4Aw.png)](https://discord.gg/P4kmcEb)
-
-### How do you use it?
-
-- Download MTA Stream master
-- Extract the folder 'MTA-Stream' into your MTA resources
-- Start 'MTA-Stream' then any maps or resource that use the MTA-Stream functionality.
+- Download the master branch
+- Extract the folder 'EagleStream' into your MTA resources dictonary
+- Start 'EagleStream' then start any map or resource that use the EagleStream functionality.
 
 # File Formatting
 
